@@ -4,3 +4,9 @@
 /Users/fabian/Projects/Family_Organizer/Family_Organizer/obj/anycpu/Debug/Family_Organizer.csproj.CoreCompileInputs.cache
 /Users/fabian/Projects/Family_Organizer/Family_Organizer/obj/anycpu/Debug/Family_Organizer.exe
 /Users/fabian/Projects/Family_Organizer/Family_Organizer/obj/anycpu/Debug/Family_Organizer.pdb
+/Users/fabian/Projects/CSharp/CSharp/Family_Organizer/Family_Organizer/bin/Debug/Family_Organizer.exe
+/Users/fabian/Projects/CSharp/CSharp/Family_Organizer/Family_Organizer/bin/Debug/Family_Organizer.pdb
+/Users/fabian/Projects/CSharp/CSharp/Family_Organizer/Family_Organizer/obj/anycpu/Debug/Family_Organizer.csprojAssemblyReference.cache
+/Users/fabian/Projects/CSharp/CSharp/Family_Organizer/Family_Organizer/obj/anycpu/Debug/Family_Organizer.csproj.CoreCompileInputs.cache
+/Users/fabian/Projects/CSharp/CSharp/Family_Organizer/Family_Organizer/obj/anycpu/Debug/Family_Organizer.exe
+/Users/fabian/Projects/CSharp/CSharp/Family_Organizer/Family_Organizer/obj/anycpu/Debug/Family_Organizer.pdb

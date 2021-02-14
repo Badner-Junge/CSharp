@@ -1,0 +1,5 @@
+/home/fabian/Projects/ProgrammierenStarten/MathematischeOperatoren/bin/Debug/MathematischeOperatoren.exe
+/home/fabian/Projects/ProgrammierenStarten/MathematischeOperatoren/bin/Debug/MathematischeOperatoren.pdb
+/home/fabian/Projects/ProgrammierenStarten/MathematischeOperatoren/obj/x86/Debug/3.MathematischeOperatoren.csproj.CoreCompileInputs.cache
+/home/fabian/Projects/ProgrammierenStarten/MathematischeOperatoren/obj/x86/Debug/MathematischeOperatoren.exe
+/home/fabian/Projects/ProgrammierenStarten/MathematischeOperatoren/obj/x86/Debug/MathematischeOperatoren.pdb

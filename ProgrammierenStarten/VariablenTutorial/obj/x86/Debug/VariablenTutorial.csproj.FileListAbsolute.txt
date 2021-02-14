@@ -1,0 +1,5 @@
+/home/fabian/Projects/ProgrammierenStarten/VariablenTutorial/bin/Debug/VariablenTutorial.exe
+/home/fabian/Projects/ProgrammierenStarten/VariablenTutorial/bin/Debug/VariablenTutorial.pdb
+/home/fabian/Projects/ProgrammierenStarten/VariablenTutorial/obj/x86/Debug/VariablenTutorial.csproj.CoreCompileInputs.cache
+/home/fabian/Projects/ProgrammierenStarten/VariablenTutorial/obj/x86/Debug/VariablenTutorial.exe
+/home/fabian/Projects/ProgrammierenStarten/VariablenTutorial/obj/x86/Debug/VariablenTutorial.pdb

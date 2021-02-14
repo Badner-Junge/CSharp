@@ -1,0 +1,5 @@
+/home/fabian/Projects/ProgrammierenStarten/ProgrammierenStarten/bin/Debug/ProgrammierenStarten.exe
+/home/fabian/Projects/ProgrammierenStarten/ProgrammierenStarten/bin/Debug/ProgrammierenStarten.pdb
+/home/fabian/Projects/ProgrammierenStarten/ProgrammierenStarten/obj/x86/Debug/HalloWelt.csproj.CoreCompileInputs.cache
+/home/fabian/Projects/ProgrammierenStarten/ProgrammierenStarten/obj/x86/Debug/ProgrammierenStarten.exe
+/home/fabian/Projects/ProgrammierenStarten/ProgrammierenStarten/obj/x86/Debug/ProgrammierenStarten.pdb

@@ -1,0 +1,29 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.HalloWelt", "ProgrammierenStarten\1.HalloWelt.csproj", "{A31998B0-C2AE-4AC5-B1BA-C47BCC0733D0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.VariablenTutorial", "VariablenTutorial\2.VariablenTutorial.csproj", "{1CC3431F-5157-41DB-8DF1-6135CB6D0276}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.MathematischeOperatoren", "MathematischeOperatoren\3.MathematischeOperatoren.csproj", "{EEA81E47-DA78-48EC-A55D-1C067AD7399E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A31998B0-C2AE-4AC5-B1BA-C47BCC0733D0}.Debug|x86.ActiveCfg = Debug|x86
+		{A31998B0-C2AE-4AC5-B1BA-C47BCC0733D0}.Debug|x86.Build.0 = Debug|x86
+		{A31998B0-C2AE-4AC5-B1BA-C47BCC0733D0}.Release|x86.ActiveCfg = Release|x86
+		{A31998B0-C2AE-4AC5-B1BA-C47BCC0733D0}.Release|x86.Build.0 = Release|x86
+		{1CC3431F-5157-41DB-8DF1-6135CB6D0276}.Debug|x86.ActiveCfg = Debug|x86
+		{1CC3431F-5157-41DB-8DF1-6135CB6D0276}.Debug|x86.Build.0 = Debug|x86
+		{1CC3431F-5157-41DB-8DF1-6135CB6D0276}.Release|x86.ActiveCfg = Release|x86
+		{1CC3431F-5157-41DB-8DF1-6135CB6D0276}.Release|x86.Build.0 = Release|x86
+		{EEA81E47-DA78-48EC-A55D-1C067AD7399E}.Debug|x86.ActiveCfg = Debug|x86
+		{EEA81E47-DA78-48EC-A55D-1C067AD7399E}.Debug|x86.Build.0 = Debug|x86
+		{EEA81E47-DA78-48EC-A55D-1C067AD7399E}.Release|x86.ActiveCfg = Release|x86
+		{EEA81E47-DA78-48EC-A55D-1C067AD7399E}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal
